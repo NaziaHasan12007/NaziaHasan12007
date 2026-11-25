@@ -57,6 +57,6 @@ I am a software engineering student specializing in the development of data-driv
 
 * **Google Advanced Data Analytics Professional Certificate** | Google / Coursera *(Sep 2026 – Oct 2026)*
 * **Google AI Professional Certificate** | Google *(Sep 2026 – Oct 2026)*
-* **IBM Full-Stack JavaScript Developer Professional Certificate** | IBM / Coursera *(Nov 2026 – Present)*
+* **IBM Full-Stack JavaScript Developer Professional Certificate** | IBM / Coursera *(Oct' 2026 – Nov' 2026)*
 * **IBM Full Stack Software Developer Professional Certificate** | IBM / Coursera *(Nov 2026 – Present)*
 ```[cite: 1]
